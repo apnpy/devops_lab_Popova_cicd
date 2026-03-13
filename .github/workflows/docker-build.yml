@@ -27,7 +27,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: apnpy/devops_lab_Popova_cicd
+          tags: apnpy/devops_lab_popova_cicd
 
       - name: Deploy step
         run: echo "Deploy step completed"
